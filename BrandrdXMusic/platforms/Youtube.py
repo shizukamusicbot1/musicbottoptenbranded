@@ -54,11 +54,11 @@ async def shell_cmd(cmd):
 async def get_stream_url(query, video=False):
     apis = [
         {
-            "url": "http://5.249.150.146:1470/youtube",
+            "url": "https://api.thequickearn.xyz",
             "key": "30DxNexGenBotsfaa108"
         },
         {
-            "url": "http://5.249.150.55:1470/youtube",
+            "url": "https://api.thequickearn.xyz",
             "key": "30DxNexGenBotsfaa108"
         }
     ]
