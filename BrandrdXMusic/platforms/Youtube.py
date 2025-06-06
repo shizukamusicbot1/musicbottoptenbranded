@@ -55,7 +55,7 @@ async def get_stream_url(query, video=False):
     apis = [
         {
             "url": "http://5.249.150.146:1470/youtube",
-            "key": "bd9206c4e3f64f009d35e194ac7b17d8"
+            "key": "30DxNexGenBotsfaa108"
         },
         {
             "url": "http://5.249.150.55:1470/youtube",
